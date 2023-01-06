@@ -1,13 +1,13 @@
-![MasterHead](https://miro.medium.com/max/3200/0*cNqkriZyJyNfWavE.jpg)
-<h1 align="center">Hi 👋, I'm Gokulprasanth T</h1>
-<h3 align="center">I am budding Data Scientist and Frontend developer and I am doing my B.E Computer Science Engineering at KPRIET. I am willing to learn and develop new skill. I am reliable and dependable and often seek new responsibilities within a wide range of areas. My interest is to develop project by fusing Full Stack and Data Science.</h3>
+![MasterHead](https://miro.medium.com/max/3200/0*cNqkriZyJyNfWavE.jpg) 
+<h1 align="center">Hi 👋, I'm Gokulprasanth T  </h1>
+<h3 align="center">I am budding Data Scientist :man_scientist: and Frontend developer :technologist: and I am doing my :computer:B.E Computer Science Engineering  at KPRIET:student:. I am willing to learn :open_book: and develop new skill. I am reliable and dependable and often seek new responsibilities within a wide range of areas. My interest is to develop project by fusing Full Stack and Data Science.</h3>
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/OIP.BlbQYHnma8Uva42j5KInaAHaGQ?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulprasanth-t&label=Profile%20views&color=0e75b6&style=flat" alt="gokulprasanth-t" /> </p>
 
 - 🔭 I’m currently working on **my intern project campus recruitment**
 
-- 📫 How to reach me **gokulprasanth09092003@gmail.com**
+- 📫 How to reach me :email: **gokulprasanth09092003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
